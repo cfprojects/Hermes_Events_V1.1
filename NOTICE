@@ -1,0 +1,68 @@
+EVENTBRITE APPLICATION COLDFUSION COMPONENT WRAPPER
+
+Codename: HERMES
+
+LICENSE:
+========
+
+	Copyright 2010, Fuzzy Orange Limited (http://www.fuzzyorange.co.uk)
+	
+	Licensed under the Apache License, Version 2.0 (the "License"); 
+	you may not use this file except in compliance with the License. 
+	You may obtain a copy of the License at 
+	
+		http://www.apache.org/licenses/LICENSE-2.0 
+	
+	Unless required by applicable law or agreed to in writing, software 
+	distributed under the License is distributed on an "AS IS" BASIS, 
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+	See the License for the specific language governing permissions and 
+	limitations under the License.
+
+	For full License details, please read the LICENSE file available with this download.
+
+
+AUTHORS:
+========
+
+	Developed by Matt Gifford AKA coldfumonkeh, Senior Developer, Fuzzy Orange Ltd
+	http://www.fuzzyorange.co.uk
+	http://www.mattgifford.co.uk
+
+	
+INSTALLATION:
+=============
+
+	Installation directions can be found in /Installation/Hermes_Events.doc or /Installation/Hermes_Events.pdf
+	
+
+FILE MANIFEST:
+==============
+
+	/LICENSE
+	/NOTICE
+	
+	/Installation/Hermes_Events.doc
+	/Installation/Hermes_Events.pdf
+
+	/Application.cfc
+	/index.cfm
+	
+	/com/fuzzyorange/eventbrite/base.cfc
+	/com/fuzzyorange/eventbrite/discount.cfc
+	/com/fuzzyorange/eventbrite/eventbrite.cfc
+	/com/fuzzyorange/eventbrite/events.cfc
+	/com/fuzzyorange/eventbrite/objectFactory.cfc
+	/com/fuzzyorange/eventbrite/organizer.cfc
+	/com/fuzzyorange/eventbrite/payment.cfc
+	/com/fuzzyorange/eventbrite/tickets.cfc
+	/com/fuzzyorange/eventbrite/userAccess.cfc
+	/com/fuzzyorange/eventbrite/users.cfc
+	/com/fuzzyorange/eventbrite/venue.cfc
+	
+	
+CHANGELOG:
+==========
+
+	11th October 2010 - new method added to users.cfc: user_list_tickets (listUserTickets)
+
